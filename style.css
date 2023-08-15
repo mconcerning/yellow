@@ -1,0 +1,15 @@
+body {
+	background-color: yellow;
+	font-family: Helvetica;
+	text-align: center;
+}
+.post {
+	font-size: 18px;
+}
+.name {
+	font-size: 25px;
+}
+.heading {
+	font-family: comic sans MS;
+	font-size: 30px;
+}
